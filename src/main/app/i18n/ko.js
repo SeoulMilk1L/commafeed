@@ -4,10 +4,10 @@
     "cancel" : "취소",
     "delete" : "삭제",
     "required" : "필수",
-    "download" : "Download ",
-    "link" : "Link ",
-    "bookmark" : "Bookmark ",
-    "close" : "Close ",
+    "download" : "다운로드 ",
+    "link" : "링크 ",
+    "bookmark" : "북마크 ",
+    "close" : "닫기 ",
     "tags" : "Tags "
   },
   "tree" : {
@@ -60,7 +60,7 @@
     "entry_author" : "by  ",
     "error_while_loading_feed" : "피드로딩중 에러",
     "keep_unread" : "안읽은것 저장",
-    "no_unread_items" : " 읽지않은 항목이 없읍니다.",
+    "no_unread_items" : " 모든 항목을 다 읽으셨습니다.",
     "mark_up_to_here" : "Mark as read up to here ",
     "search_for" : "searching for:  ",
     "no_search_results" : "No match found for the requested keywords "
@@ -73,10 +73,10 @@
   "settings" : {
     "general" : {
       "value" : "일반",
-      "language" : "일반 언어",
+      "language" : "언어",
       "language_contribute" : "번역 도움하기",
       "show_unread" : "안읽은 항목들이 있는 피드와 카테고리 보여주기",
-      "social_buttons" : "소셜미디아 버튼들 보여주기",
+      "social_buttons" : "소셜미디어 버튼들 보여주기",
       "scroll_marks" : "Expanded View에서 스크롤하면 항목들을 읽음으로 저장하기"
     },
     "appearance" : "Appearance ",
@@ -88,16 +88,16 @@
   },
   "details" : {
     "feed_details" : "피드 세부",
-    "url" : "유알엘",
+    "url" : "URL",
     "website" : "Website ",
     "name" : "이름",
     "category" : "카테고리",
     "position" : "Position ",
-    "last_refresh" : "마지막 리프래쉬",
+    "last_refresh" : "마지막 갱신",
     "message" : "Last refresh message ",
     "next_refresh" : "Next refresh ",
     "queued_for_refresh" : "Queued for refresh ",
-    "feed_url" : "피드 유알엘",
+    "feed_url" : "피드 URL",
     "generate_api_key_first" : "당신의 프로필을 위해 API Key를 먼저 생성하세요.",
     "unsubscribe" : "주소 삭제",
     "unsubscribe_confirmation" : "Are you sure you want to unsubscribe from this feed? ",
@@ -133,7 +133,7 @@
     "line1_suffix" : "에 있습니다.",
     "line2_prefix" : "문제가 발생하는 경우",
     "line2_suffix" : " 프로젝트 문제페이지에 보고하십시요.",
-    "line3" : "이 프로젝트를 좋아하시면 개발자를 지원하고 웹사이트 유지용비를 충당하는 데 도움이되는 기부금을 고려하시기 바랍니다.",
+    "line3" : "이 프로젝트를 좋아하시면 개발자를 지원하고 웹사이트 유지용비를 충당하는 데 도움이되는 기부를 부탁드립니다,
     "line4" : "For those of you who prefer bitcoin, here is the address ",
     "goodies" : {
       "value" : "Goodies",
